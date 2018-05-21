@@ -2,6 +2,4 @@
 A personal project to explore different solutions to clear debt. 
 This project was created purely in Java, using Eclipse. 
 
- <iframe width="420" height="315"
-src="https://www.youtube.com/embed/tgbNymZ7vqY">
-</iframe> 
+<iframe style = "border:0; min-width:300px; width:320px;" src ="https://www.youtube.com/embed/tgbNymZ7vqY"></iframe>
